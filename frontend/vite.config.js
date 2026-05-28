@@ -8,7 +8,7 @@ export default defineConfig({
     port: 5173,
   },
   build: {
-    outDir: '../backend/static',
+    outDir: '../backend/staticfiles',
     emptyOutDir: true,
   },
 })
