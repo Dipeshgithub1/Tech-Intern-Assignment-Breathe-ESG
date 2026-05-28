@@ -1,0 +1,8 @@
+booking_id,booking_type,amount,currency,start_date,end_date,traveler_name,department,origin,destination,distance_miles,airline,flight_number
+TRP-001,FLIGHT,1250,USD,2024-01-08,2024-01-08,"John Smith","Operations",SFO,JFK,2600,UA,UA1234
+TRP-002,FLIGHT,890,USD,2024-01-10,2024-01-15,"Sarah Johnson","Sales",LAX,LHR,5400,BA,BA182
+TRP-003,HOTEL,450,USD,2024-01-08,2024-01-10,"John Smith","Operations","New York, NY","New York, NY",,,"Hotel stay for client meeting"
+TRP-004,CAR,280,USD,2024-01-09,2024-01-09,"Mike Wilson","Engineering","San Francisco, CA","San Francisco, CA",120,,
+TRP-005,FLIGHT,1650,USD,2024-01-12,2024-01-12,"Lisa Chen","Finance",SEA,NYC,2400,DL,DL421
+TRP-006,TRAIN,180,USD,2024-01-14,2024-01-14,"David Brown","Operations","London, UK","Paris, France",280,,
+TRP-007,FLIGHT,75000,USD,2024-01-20,2024-01-20,"VIP Traveler","Executive",SFO,HND,6700,ANA,NH001

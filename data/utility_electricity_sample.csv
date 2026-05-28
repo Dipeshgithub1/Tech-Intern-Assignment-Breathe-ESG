@@ -1,0 +1,9 @@
+account_number,meter_number,kwh,demand_kW,period_start,period_end,utility_company,service_address
+ELEC-1001,MTR-001,12500,450,2024-01-01,2024-01-31,"Pacific Gas & Electric","123 Main St, San Francisco, CA"
+ELEC-1002,MTR-002,8750,280,2024-01-01,2024-01-31,"Southern California Edison","456 Oak Ave, Los Angeles, CA"
+ELEC-1003,MTR-003,15800,620,2024-01-01,2024-01-31,"Con Edison","789 Broadway, New York, NY"
+ELEC-1004,MTR-001,11800,430,2024-02-01,2024-02-29,"Pacific Gas & Electric","123 Main St, San Francisco, CA"
+ELEC-1005,MTR-004,22000,850,2024-01-01,2024-01-31,"Duke Energy","321 Pine Rd, Charlotte, NC"
+ELEC-1006,MTR-005,950,180,2024-01-01,2024-01-31,"Xcel Energy","654 Maple Dr, Denver, CO"
+ELEC-1007,MTR-002,8900,290,2024-02-01,2024-02-29,"Southern California Edison","456 Oak Ave, Los Angeles, CA"
+ELEC-1008,MTR-006,50,120,2024-01-01,2024-01-31,"Small Reading - Suspicious","789 Elm St, Portland, OR"

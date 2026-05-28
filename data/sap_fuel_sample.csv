@@ -1,0 +1,8 @@
+DocumentNumber,Buchdatum,Material,Menge,Mengeneinheit,Plant,PlantName,Waehrung,Betrag,Description
+80012345,15.01.2024,DIESEL,1500,GLLO,PLANT001,"Refinery Terminal A",USD,4500.00,"Diesel fuel for fleet vehicles"
+80012346,16.01.2024,GASOLINE,800,LTR,PLANT002,"Distribution Center B",USD,2800.00,"Gasoline for delivery trucks"
+80012347,17.01.2024,NATURAL_GAS,2500,KG,PLANT003,"Manufacturing Plant",USD,1800.00,"Natural gas for heating"
+80012348,18.01.2024,LUBRICANTS,50,LTR,PLANT001,"Refinery Terminal A",USD,1200.00,"Engine oil procurement"
+80012349,19.01.2024,HEATING_OIL,500,GLLO,PLANT004,"Office Complex",USD,3200.00,"Heating oil for boilers"
+80012350,20.01.2024,WAREHOUSE_SUPPLIES,2000,EA,PLANT002,"Distribution Center B",USD,8500.00,"Packaging materials procurement"
+80012351,21.01.2024,DIESEL,12000,GLLO,PLANT005,"Remote Site",USD,36000.00,"Large fuel order - flag as suspicious"
